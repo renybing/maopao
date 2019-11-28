@@ -1,7 +1,7 @@
 
 '''
 冒泡排序PYTHON'''
-import random as rd
+import random as rda
 from matplotlib import pyplot as plt
 a = list(range(1,30))
 x =list(range(1,30))
